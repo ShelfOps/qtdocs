@@ -16,7 +16,8 @@ copyright: Copyright &copy; 2021 NotAShelf
 # Configuration
 theme:
   name: material
-
+  icon:
+    repo: fontawesome/brands/git-alt
   # Static files
   static_templates:
     - 404.html
