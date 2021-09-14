@@ -116,6 +116,9 @@ nav:
     - Brewing Guide: brewing.md
   - Extras:
     - Extra Features: extras.md
+  - Pets & Cosmetics:
+    - Pets: pets.md
+    - Cosmetics: cosmetics.md
   #- Blog:
   #  - blog/index.md
   #  - 2021:
