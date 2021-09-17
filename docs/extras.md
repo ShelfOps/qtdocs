@@ -29,3 +29,4 @@ If you, *per chance*, don't like this, you can disable it by `/iv toggle all <al
 Pretty simple yet complex. Read [here](brewing.md) if you are interested.
 
 [^1]: This will only work on logs which generate naturally. If you would like to take down a custom-built tree or a pillar in your base made out of logs, you will need to do that manually. There are no workarounds.
+
