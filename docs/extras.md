@@ -1,11 +1,11 @@
 Those are the the things that require little to no explanation, but were still documented for convenience. If you need anything else that's not here to be, well, be here; please let me know on discord. 
 
 ### Singleplayer Sleep
-When one person sleeps, it skips the night no questions asked
+When one person sleeps, it skips the night. No questions asked.
 
 ### Custom Heads
 If you are a builder looking to spice up your build, there are around 38k playerheads with custom textures at your disposal.
-You can do /hdb to view them all
+You can do `/hdb` to view them all
 
 ### Smoothtimber*
 You can take down entire trees by chopping down the bottom block
