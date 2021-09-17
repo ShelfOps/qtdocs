@@ -66,8 +66,10 @@ theme:
 
 # Plugins
 plugins:
-  - search
+  - search:
+      prebuild_index: true
   - git-revision-date-localized
+  - macros
 # Extensions
 markdown_extensions:
   - admonition

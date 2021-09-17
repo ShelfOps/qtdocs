@@ -7,8 +7,8 @@ When one person sleeps, it skips the night. No questions asked.
 If you are a builder looking to spice up your build, there are around 38k playerheads with custom textures at your disposal.
 You can do `/hdb` to view them all
 
-### Smoothtimber*
-You can take down entire trees by chopping down the bottom block
+### Smoothtimber
+You can take down entire trees[^1] by chopping down the bottom block
 If you don't want the whole tree to go down just shift/sneak while breaking the block
 
 *: Logs placed by players do not go down when broken.
@@ -27,3 +27,5 @@ If you, *per chance*, don't like this, you can disable it by `/iv toggle all <al
 
 ###  Brewing Alcoholic Beverages
 Pretty simple yet complex. Read [here](brewing.md) if you are interested.
+
+[^1]: This will only work on logs which generate naturally. If you would like to take down a custom-built tree or a pillar in your base made out of logs, you will need to do that manually. There are no workarounds.

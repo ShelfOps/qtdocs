@@ -23,18 +23,19 @@ You will unlock some abilities but I'll leave it to you to discover those "abili
 ### Stats
 Each individual skill gives you a tiny boost within 2 selected stats as you level them up. Those stats consist of:
 
-  **Strength** ➽ Increases attack damage
-  **Health** ❤️ Increases max health 
-  **Regeneration** ❥ Increases health and mana regen speed
-  **Luck** ☘️ Increases luck attribute and double drop chance for common blocks
-  **Wisdom** ✿ Increases experience gain, max mana, decreases anvil costs
-  **Toughness** ✦ Reduces incoming damage
+-  **Strength** ➽ Increases attack damage
+-  **Health** ❤️ Increases max health 
+-  **Regeneration** ❥ Increases health and mana regen speed
+-  **Luck** ☘️ Increases luck attribute and double drop chance for common blocks
+-  **Wisdom** ✿ Increases experience gain, max mana, decreases anvil costs
+-  **Toughness** ✦ Reduces incoming damage
 
 *P.S: Mana is used for both skill abilities and Magic spells (more about that later)*
 
 *P.P.S: To use your abilities, you should use the interact button (right click for Java players, not quite sure for bedrock since it's available for a variety of platforms)*
 
-***P.P.P.S: All skills and their descriptions can be found on the*** ***`/skills`*** ***menu***
+!!! tip hint important 
+    All skills and their descriptions can be found on the*** ***`/skills`*** menu
 
 ## Dynamic Mob Difficulty 
 Yet another simplex mechanic which forces mobs to spawn with higher levels as you go further away from spawn. Their stats were balanced in order to feel harder, but not impossible. There is not a hard cap for maximum mob level.  Bosses are not affected by this mechanic.
@@ -87,7 +88,7 @@ You will notice mobs which spawn with larger health pools or overall higher stat
 Bosses are divided into two categories, Elite Mobs & Bosses.
 Elitemobs are regular which have higher stats and possibly an aura. They have a base chance of dropping loot and they scale to your threat level (more about that later)
 
-Bosses also appear as regular mobs, but they usually have better gear and visible particle effects alongside abilities to make you feel pain. When a boss spawns in the world, you will see a notification in chat alongside an option to track them. They are hard and definitely should not be fought alone unless you have good gear.
+Bosses also appear as regular mobs, but they usually have better gear and visible particle effects alongside abilities to make you feel pain. When a boss spawns in the world, you will see a notification in chat alongside an option to track them. They are usually extremely challenging and definitely should not be fought alone unless you have good gear.
 
 ### Guild Tier System
 The guild tier loot limiter limits the best loot a player can loot based on their guild tier.
