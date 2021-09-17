@@ -2,14 +2,14 @@
 
 ---
 
-- Skills
-- Dynamic Mob difficulty
-- Custom enchants
-- Machinery 
-- Livemap
-- Backpacks
-- Bosses
-- Seasons
+- [Skills](#skills)
+- [Dynamic Mob difficulty](#dynamic-mob-difficulty)
+- [Custom enchants](#custom-enchants)
+- [Machinery](#machinery)
+- [Livemap](#livemap)
+- [Backpacks](#backpacks)
+- [Adventurers' Content](#dungeons-adventurers-guild-and-bosses)
+- [Seasons](#seasons)
 
 ---
 
@@ -58,14 +58,16 @@ the world is 10kx10k and the map follows the same radius, displaying everything 
 
 ## Backpacks
 YOU CAN CRAFT 6 TIERS OF BACKPACKS YEEHAW HOW COOL IS THAT
-Their recipes are in `/bbp recipe`, and all backpacks come with liquid tanks to store your liquids without wasting shit ton of space on individual buckets. You can't put backpacks in backpacks, sucks I know. 
+Their recipes are in `/bprecipe`, and all backpacks come with liquid tanks to store your liquids without wasting shit ton of space on individual buckets. You can't put backpacks in backpacks, sucks I know. 
+
+*Rev 3.1 Notes: Both `/bprecipe` and `/bbp recipe` are valid commands. `/bprecipe` was an alias added later to make the command more convenient.*
 
 >**Update: Backpack recipes also appear in crafting tables now.**
 
 ## Custom Nether & End
 When the server starts, you are free to go to any dimension you wish to go to. There are no restrictions, because those dimensions are also custom and you will feel the difficulty of them if you go early. That is why you're recommended to go there later in your playthrough, preferably with one or more people by your side.
 
-End is revamped to make you feel like a meaningless pebble in vast nothingness, and will feature new biomes just like nether.
+End is revamped to make you feel like a meaningless pebble in vast nothingness, and will feature (massive) new biomes just like nether.
 
 ## Custom World Generation
 You might be familiar with the name "Terralith", it's a popular world generation datapack and we will be using it for this server. Seasons were altered to be compatible with Terralith and almost every terralith biome will respond to the current season. This generation features a variety of things ranging from 1.18 Lush caves, new cave height (goes down below Y=0), goats, powdered snow and more.

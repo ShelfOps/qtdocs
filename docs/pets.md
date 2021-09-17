@@ -16,13 +16,13 @@ Items picked up by your pet will be added to this inventory. Line added by skill
 > The Beacon skill transforms your pet in a walking and more powerfull beacon. For administration of the buffs the plugin uses a custom menu (see Beacon Buff Selection Menu) that can be opened with the /petbeacon command. By default this skill consumes food when it is active, that means the Saturation-Value decreases continuously while the skill is active.
 
 - Behavior
-> With this skill you can change the behavior of the pet. There are 5 possible behavior-modes:
-  - Friendly -> Doesn't fight, even when attacked by anything
-  - Normal -> Like a neutral wolf.
-  - Aggressive -> Attacks everything within 15 blocks of the owner.
-  - Farm -> Atacks every Monster within 15 blocks of the owner
-  - Raid -> like normal but the pet doesn't attack players and their minions
-  - Duel -> pets will attack other pets with aktive duel behavior within a 5 block radius
+> With this skill you can change the behavior of the pet. There are **5** possible behavior-modes:
+    * Friendly -> Doesn't fight, even when attacked by anything
+    * Normal -> Like a neutral wolf.
+    * Aggressive -> Attacks everything within 15 blocks of the owner.
+    * Farm -> Atacks every Monster within 15 blocks of the owner
+    * Raid -> like normal but the pet doesn't attack players and their minions
+    * Duel -> pets will attack other pets with aktive duel behavior within a 5 block radius
 
 To toggle the mode type `/petbehavior <normal/friendly/aggressive/farm/raid/duel>`.
 

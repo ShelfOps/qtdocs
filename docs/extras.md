@@ -10,6 +10,7 @@ You can do /hdb to view them all
 ### Smoothtimber*
 You can take down entire trees by chopping down the bottom block
 If you don't want the whole tree to go down just shift/sneak while breaking the block
+
 *: Logs placed by players do not go down when broken.
 
 ### Seasons

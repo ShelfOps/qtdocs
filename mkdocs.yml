@@ -9,7 +9,7 @@ site_description: >-
 # Repository
 repo_name: notashelf/qtdocs
 repo_url: https://github.com/notashelf/qtdocs
-edit_uri: ""
+edit_uri: edit/master/docs/
 
 # Copyright
 copyright: Copyright &copy; 2021 NotAShelf
@@ -17,7 +17,7 @@ copyright: Copyright &copy; 2021 NotAShelf
 theme:
   name: material
   icon:
-    repo: fontawesome/brands/git-alt
+    repo: fontawesome/brands/github
   # Static files
   static_templates:
     - 404.html
@@ -46,16 +46,16 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate
-      primary: red
+      primary: blue grey
       accent: red
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
   font:
     text: Roboto
@@ -67,6 +67,7 @@ theme:
 # Plugins
 plugins:
   - search
+  - git-revision-date-localized
 
 
 # Extensions
@@ -114,12 +115,21 @@ nav:
   - Guides:
     - Starter Guide: guide.md
     - Brewing Guide: brewing.md
-  - Extras:
-    - Extra Features: extras.md
   - Pets & Cosmetics:
     - Pets: pets.md
     - Cosmetics: cosmetics.md
-  #- Blog:
-  #  - blog/index.md
-  #  - 2021:
-  #    - blog/2021/search-better-faster-smaller.md
+  - Extras:
+    - Extra Features: extras.md
+    - FAQ: faq.md
+  - Revision Notes:
+    - blog/index.md
+    #- 2021:
+    - 3.x:
+      #- blog/2021/search-better-faster-smaller.md
+      - blog/3.x/3.1.md
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/notashelf
+    - icon: fontawesome/brands/github
+      link: https://github.com/notashelf
