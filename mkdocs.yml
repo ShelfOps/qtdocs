@@ -111,12 +111,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Guides:
-    - Starter Guide: guides/guide.md
-    - Brewing Guide: guides/brewing.md
-    - Pets: guides/pets.md
-    - Cosmetics: guides/cosmetics.md
+    - Starter Guide: guide.md
+    - Brewing Guide: brewing.md
+    - Pets: pets.md
+    - Cosmetics: cosmetics.md
   - Extras:
-    - Extra Features: guides/extras.md
+    - Extra Features: extras.md
     - FAQ: faq.md
   - Revision Notes:
     - blog/index.md
