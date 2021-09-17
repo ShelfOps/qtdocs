@@ -52,8 +52,8 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate
-      primary: blue grey
-      accent: red
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -113,18 +113,17 @@ nav:
   - Guides:
     - Starter Guide: guide.md
     - Brewing Guide: brewing.md
-  - Pets & Cosmetics:
     - Pets: pets.md
     - Cosmetics: cosmetics.md
   - Extras:
     - Extra Features: extras.md
     - FAQ: faq.md
-  - Blog:
+  - Revision Notes:
     - blog/index.md
     #- 2021:
-    - Revision Notes:
+    - 3.x:
       #- blog/2021/search-better-faster-smaller.md
-      - blog/3.x/3.1.md
+      - blog/3.1.md
 extra:
   social:
     - icon: fontawesome/brands/twitter
