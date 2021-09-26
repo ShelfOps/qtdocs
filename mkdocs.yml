@@ -129,11 +129,11 @@ nav:
   - Revision Notes:
     - rev/index.md
     #- 2021:
+    - 4.x:
+      - rev/4.0.md
     - 3.x:
       - rev/3.1.md
       - rev/3.2.md
-    - 4.x:
-      - rev/4.0.md
 extra:
   social:
     - icon: fontawesome/brands/twitter
