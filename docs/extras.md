@@ -3,6 +3,15 @@ Those are the the things that require little to no explanation, but were still d
 ### Singleplayer Sleep
 When one person sleeps, it skips the night. No questions asked.
 
+## Backpacks
+YOU CAN CRAFT 6 TIERS OF BACKPACKS YEEHAW HOW COOL IS THAT
+Their recipes are in `/bprecipe`, and all backpacks come with liquid tanks to store your liquids without wasting shit ton of space on individual buckets. You can't put backpacks in backpacks, sucks I know. 
+
+**Notes**
+>*Rev 3.1: Both `/bprecipe` and `/bbp recipe` are valid commands. `/bprecipe` was an alias added later to make the command more convenient.*
+>*Rev 3.2: Backpack recipes will now appear in the crafting book when you open a crafting table.*
+
+
 ### Custom Heads
 If you are a builder looking to spice up your build, there are around 38k playerheads with custom textures at your disposal.
 You can do `/hdb` to view them all
@@ -10,8 +19,6 @@ You can do `/hdb` to view them all
 ### Smoothtimber
 You can take down entire trees[^1] by chopping down the bottom block
 If you don't want the whole tree to go down just shift/sneak while breaking the block
-
-*: Logs placed by players do not go down when broken.
 
 ### Seasons
 Pretty much a gimmick feature, but you will notice different things in the world such as air/block colors changing, random animals, berries or flowers spawning and such. If you tame an animal in a season, they will despawn when that season ends. If you breed two animals, the baby stays and parents leave to buy milk.
@@ -25,6 +32,14 @@ You will be seeing some funny chest/enchantment table and other crafting station
 If you, *per chance*, don't like this, you can disable it by `/iv toggle all <all>/<specific block> <true>/<false>` 
 ***Don't forget to choose between optional statements. while executing the command.***
 
+### Pet teleport
+Pets will now be teleported to their owners upon chunk unload if they are not sitting. 
+
+### Shulker Nerf
+Shulker bullets will no longer create new shulkers upon hitting other shulkers. This fixes a dupe glitch anda performance issue
+
+### Instant nether portals
+You will not go through nether portals instantly. No more teleportation delay with swirly effects.
 ###  Brewing Alcoholic Beverages
 Pretty simple yet complex. Read [here](brewing.md) if you are interested.
 

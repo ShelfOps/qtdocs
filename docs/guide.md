@@ -46,7 +46,7 @@ To compliment vanilla enchants, we have around 230 new vanilla enchants alongsid
 *You can also use `/enchantmenu` or `/enchantinfo <enchantname>` to identify what an enchant does, or its incompatibilities.*
 
 ## Machinery
-There are custom ores, items, armor, gear and magic stuff you can obtain from a funny plugin called Slimefun. You can build small (or large) pieces of machinery by looking up how to build the crafting stations from `/sf openguide` (or the guide book that's given to you when you first join, they are the same thing) and then create the recipes which are all listed on the slimefun guidebook. there are a lot to discover and you can even craft some vanilla items like tridents, or an elytra. There are also magic stuff that you can get into. I would explain them all one by one, but there's a 2k letter limit and that's nowhere near enough
+There are custom ores, items, armor, gear and magic stuff you can obtain from a funny plugin called Slimefun. You can build small (or large) pieces of machinery by looking up how to build the crafting stations from `/sf openguide` (or the guide book that's given to you when you first join, they are the same thing) and then create the recipes which are all listed on the slimefun guidebook. there are a lot to discover and you can even craft some vanilla items like tridents, or an elytra. There are also magic stuff that you can get into. I would explain them all one by one, but there is no point bloating this wiki with things that are more fun when discovered on your own. I highly recommend getting into slimefun machinery as soon as you can.
 
 *Read the guide or pay someone to build the things for you *
 -> community moment
@@ -56,15 +56,6 @@ There is a livemap that updates to the state of the world (seasons, new builds, 
 
 You can use this map to find a good place to yoink resources in, or follow other people vibing around. 
 the world is 10kx10k and the map follows the same radius, displaying everything available to us as they are discovered on the map.
-
-## Backpacks
-YOU CAN CRAFT 6 TIERS OF BACKPACKS YEEHAW HOW COOL IS THAT
-Their recipes are in `/bprecipe`, and all backpacks come with liquid tanks to store your liquids without wasting shit ton of space on individual buckets. You can't put backpacks in backpacks, sucks I know. 
-
-*Rev 3.1 Notes: Both `/bprecipe` and `/bbp recipe` are valid commands. `/bprecipe` was an alias added later to make the command more convenient.*
-
->**Update: Backpack recipes also appear in crafting tables now.**
-
 ## Custom Nether & End
 When the server starts, you are free to go to any dimension you wish to go to. There are no restrictions, because those dimensions are also custom and you will feel the difficulty of them if you go early. That is why you're recommended to go there later in your playthrough, preferably with one or more people by your side.
 

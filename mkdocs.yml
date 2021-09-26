@@ -118,15 +118,22 @@ nav:
     - Brewing Guide: brewing.md
     - Pets: pets.md
     - Cosmetics: cosmetics.md
+    - Lists:
+      - lists/enchants.md
+      - lists/reforges.md
+      - lists/talismans.md
+      - lists/armor.md
   - Extras:
     - Extra Features: extras.md
     - FAQ: faq.md
   - Revision Notes:
-    - blog/index.md
+    - rev/index.md
     #- 2021:
     - 3.x:
-      #- blog/2021/search-better-faster-smaller.md
-      - blog/3.1.md
+      - rev/3.1.md
+      - rev/3.2.md
+    - 4.x:
+      - rev/4.0.md
 extra:
   social:
     - icon: fontawesome/brands/twitter
