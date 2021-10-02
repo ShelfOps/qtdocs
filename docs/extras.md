@@ -52,8 +52,6 @@ Shulker bullets will no longer create new shulkers upon hitting other shulkers. 
 ## Instant nether portals [Experimental]
 You will not go through nether portals instantly. No more teleportation delay with swirly effects.
 
-## Pathways
-As you walk between two different locations, you will notice a pathway forming before you. This pathway
 ### Brewing Alcoholic Beverages
 Pretty simple yet complex. Read [here](brewing.md) if you are interested.
 

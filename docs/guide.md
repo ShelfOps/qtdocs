@@ -115,10 +115,10 @@ You will notice mobs which spawn with larger health pools or overall higher stat
 - Floating Glasspanes: This boss is invisible (creepers are a pain.)
 - Floating Fire Particles: This mob wants to grill your buttcheeks.
 
-Bosses are divided into two categories, Elite Mobs & Bosses.
-Elitemobs are regular which have higher stats and possibly an aura. They have a base chance of dropping loot and they scale to your threat level (more about that later)
+"Bosses" from the plugin are divided into two categories, **Elite Mobs** & **Bosses**.
+**Elitemobs** are regular which have higher stats and possibly an aura. They have a base chance of dropping loot and they scale to your threat level (more about that later)
 
-Bosses also appear as regular mobs, but they usually have better gear and visible particle effects alongside abilities to make you feel pain. When a boss spawns in the world, you will see a notification in chat alongside an option to track them. They are usually extremely challenging and definitely should not be fought alone unless you have good gear.
+**Bosses** also appear as regular mobs, but they usually have better gear and visible particle effects alongside abilities to make you feel pain. When a boss spawns in the world, you will see a notification in chat alongside an option to track them. They are usually extremely challenging and definitely should not be fought alone unless you have good gear.
 
 ### Guild Tier System
 The guild tier loot limiter limits the best loot a player can loot based on their guild tier.
