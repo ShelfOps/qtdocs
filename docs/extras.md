@@ -17,7 +17,7 @@ If you are a builder looking to spice up your build, there are around 38k player
 You can do `/hdb` to view them all
 
 ## Reviving Players [Experimental]
-You will die. A lot. The bosses and even their elite (weake counterparts) are strong and they *will* kill you. But be not afraid! You can always revive your friends when they die, or then can revive you when you, well, **die**.
+You will die. A lot. The bosses and even their elite (weaker counterparts) are strong and they *will* kill you. But be not afraid! You can always revive your friends when they die, or then can revive you when you, well, **die**.
 The process goes as follows: When a player is killed, they are not actually killed; they will be placed into a bleedout period where other players can try and revive the player who is downed. To revive a player, you need to hold sneak while standing really close to them until they are revived and they get back up. When a player is revived, they will be at half a heart. Do note that there is a bleedout timer, so you cannot leave the players hanging forever. After 1.5 minutes, the player will die. To end your own suffering, you can press sneak (shift) to end bleedout and die as intended.
 ## Smoothtimber
 You can take down entire trees[^1] by chopping down the bottom block

@@ -2,15 +2,10 @@
 
 ---
 
-- [Skills](#skills)
-- [Dynamic Mob difficulty](#dynamic-mob-difficulty)
-- [Custom enchants](#custom-enchants)
-- [Machinery](#machinery)
-- [Livemap](#livemap)
-- [Backpacks](#backpacks)
-- [Adventurers' Content](#dungeons-adventurers-guild-and-bosses)
-- [Seasons](#seasons)
-
+- [Skills & Magic](#skills-magic)
+- [Machinery & Crafting](#machinery-crafting)
+- [World Generation & Mob Changes](#world-generation-hostile-mob-changes)
+- [Dungeons, Adventurer's Guild & Bosses](#dungeons-adventurers-guild-and-bosses)
 ---
 
 ## Skills & Magic
@@ -99,7 +94,7 @@ There is a livemap that updates to the state of the world (seasons, new builds, 
 You can use this map to find a good place to yoink resources in, or follow other people vibing around. 
 the world is 10kx10k and the map follows the same radius, displaying everything available to us as they are discovered on the map.
 
-## Dynamic Mob Difficulty 
+#### Dynamic Mob Difficulty 
 Yet another simplex mechanic which forces mobs to spawn with higher levels as you go further away from spawn. Their stats were balanced in order to feel harder, but not impossible. There is not a hard cap for maximum mob level.  Bosses are not affected by this mechanic.
 
 ## Dungeons & Adventurer's Guild (and Bosses)
