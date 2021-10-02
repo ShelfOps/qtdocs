@@ -15,7 +15,6 @@ edit_uri: edit/master/docs/
 copyright: Copyright &copy; 2021 NotAShelf
 # Configuration
 theme:
-  custom_dir: overrides
   name: material
   icon:
     repo: fontawesome/brands/github
@@ -129,11 +128,14 @@ nav:
   - Revision Notes:
     - rev/index.md
     #- 2021:
+    - 5.x:
+      - rev/5.1.md
+      - rev/5.0.md
     - 4.x:
       - rev/4.0.md
     - 3.x:
-      - rev/3.1.md
       - rev/3.2.md
+      - rev/3.1.md
 extra:
   social:
     - icon: fontawesome/brands/twitter
