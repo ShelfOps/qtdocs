@@ -1,4 +1,4 @@
-## There are few unusual key elements that you will need to pay attention to:
+There are few unusual key elements that you will need to pay attention to:
 
 ---
 
@@ -74,7 +74,6 @@ The glass will then go green to indicate that a valid item has been entered.
 Click the button to reforge the item, paying its cost. The price increases by a factor of 1.15x every time the same item is reforged.
 ## World Generation & Hostile Mob Changes
 
-
 ### World Generation
 The world, in all dimensions, have been overhauled to provide a more unusual survival experience. You will find more loot and naturally, more enemies guarding them as you thread those dimensions.
 #### Custom World Generation
@@ -107,7 +106,7 @@ You will notice mobs which spawn with larger health pools or overall higher stat
 "Bosses" from the plugin are divided into two categories, **Elite Mobs** & **Bosses**.
 **Elitemobs** are regular which have higher stats and possibly an aura. They have a base chance of dropping loot and they scale to your threat level (more about that later)
 
-**Bosses** also appear as regular mobs, but they usually have better gear and visible particle effects alongside abilities to make you feel pain. When a boss spawns in the world, you will see a notification in chat alongside an option to track them. They are usually extremely challenging and definitely should not be fought alone unless you have good gear.
+**Bosses** also appear as regular mobs, but they usually have better gear and visible particle effects alongside abilities to make you feel pain. When a boss spawns in the world, you will see a notification in chat alongside an option to track them. They are usually *extremely challenging* and definitely should not be fought alone unless you have good gear.
 
 ### Guild Tier System
 The guild tier loot limiter limits the best loot a player can loot based on their guild tier.
@@ -116,12 +115,15 @@ Math behind this system is roughly like this:
 ```sh 
 [(Guild Tier) * 10]
 ```
+
 So for example, at tier 5 you will be able to obtain up to tier 50 loot and mob level will be capped at 50.
 
 ### Adventurers Guild NPCs
-Guild Attendant (for upgrading guild ranks)
-Blacksmith (for buying procedurally generated items and selling drops from elite mobs)
-Special Blacksmith (for buying custom items and selling drops from elite mobs)
-Quest Giver (for browsing and accepting quests) (currently unimplemented)
-Combat Instructor (for giving tips about EliteMobs combat)
-Barkeep (currently unimplemented)
+
+- Guild Attendant (for upgrading guild ranks)
+- Blacksmith (for buying procedurally generated items and selling drops from elite mobs)
+- Special Blacksmith (for buying custom items and selling drops from elite mobs)
+- Quest Giver (for browsing and accepting quests) (currently unimplemented)
+- Combat Instructor (for giving tips about EliteMobs combat)
+- Barkeep (currently unimplemented)
+
