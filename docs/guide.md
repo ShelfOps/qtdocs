@@ -34,12 +34,6 @@ Each individual skill gives you a tiny boost within 2 selected stats as you leve
 
 ### Magic
 By far my favorite feature, you can cast spells using a personalized wand. First you need to craft a wand (the recipe will be in the recipe book when you can craft one) and then you will need to start earning SpellPoints by slaying mobs using spells (you will have a starter spell.) As you earn SP (spell points), you can upgrade your wand by using the interact button on an enchantment while holding your wand. You can also customize your wand's controls by interacting with the enchanting table. Right click with your wand to cast spells. Level up your spells by killing mobs with your wand. Magic.
-
-## Custom enchants
-To compliment vanilla enchants, we have around 230 new vanilla enchants alongside some "artifacts" and new curses. they can all be found [here](https://ecoenchants.willfp.com/enchantments/all-enchantments)
-
-*You can also use `/enchantmenu` or `/enchantinfo <enchantname>` to identify what an enchant does, or its incompatibilities.*
-
 ## Machinery & Crafting
 I've added many items and item modifiers to make this server more RPG-like and offer more freedom on how you approach combat. Below, you will find details on each new mechanic that's been added to the game. Some of them are experimental, so feedback is appreciated. 
 
@@ -52,7 +46,7 @@ If things added by slimefun are complicated, you can always work together with s
 There are around 240 custom enchants that can be applied to your weapon. Just like regular enchants, they can be found through enchanting tables, loot chests and villager trades. You can combine most of those enchants, but if you would like to see what conflicts with an enchant of your choice; run the command `/enchantinfo <enchant name>` or do `/enchants` to open a menu with a list of all possible enchants, spells curses and artifacts.
 
 #### Enchants
-Most of the books added through this plugin are enchants. They come in various shape on form, for a variety of tools; but what they do is simple, offer you a different way to play the game, be it through changing how you mine blocks or how you fight mobs. Enchants also have a few rarities, mentioned in [the Enchants List](../enchants.md)
+Most of the books added through this plugin are enchants. They come in various shape on form, for a variety of tools; but what they do is simple, offer you a different way to play the game, be it through changing how you mine blocks or how you fight mobs. Enchants also have a few rarities, mentioned in [the Enchants List](../lists/enchants.md)
 
 #### Spells 
 Spells are not very common, and they offer less than enchants. They essentially apply a "skill" to your sword which you can use by using the interact button (right click by default). Some spells come with cooldowns, and they cannot be spammed.
