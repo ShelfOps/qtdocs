@@ -9,7 +9,7 @@ site_description: >-
 # Repository
 repo_name: notashelf/qtdocs
 repo_url: https://github.com/notashelf/qtdocs
-edit_uri: edit/master/docs/
+edit_uri: ""
 
 # Copyright
 copyright: Copyright &copy; 2021 NotAShelf
@@ -32,7 +32,7 @@ theme:
     - content.code.annotate
     - content.tabs.link
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.indexes
     # - navigation.instant
     - navigation.sections
@@ -45,20 +45,33 @@ theme:
     - search.suggest
     # - toc.integrate
   palette:
+
     - media: "(prefers-color-scheme: light)"
-    - scheme: default
-      primary: deep purple
-      accent: deep purple
+      scheme: default
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
+
     - media: "(prefers-color-scheme: dark)"
-    - scheme: slate
-      primary: indigo
-      accent: indigo
+      scheme: slate
       toggle:
-        icon: material/weather-night
+        icon: material/toggle-switch
         name: Switch to light mode
+
+#    - media: "(prefers-color-scheme: light)"
+#    - scheme: default
+#      primary: deep purple
+#      accent: deep purple
+#      toggle:
+#        icon: material/weather-sunny
+#        name: Switch to dark mode
+#    - media: "(prefers-color-scheme: dark)"
+#    - scheme: slate
+#      primary: indigo
+#      accent: indigo
+#      toggle:
+#        icon: material/weather-night
+#        name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
@@ -147,3 +160,4 @@ extra:
       link: https://github.com/notashelf
   version:
     provider: mike
+  generator: false
