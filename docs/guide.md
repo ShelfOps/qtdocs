@@ -49,16 +49,16 @@ Evolutions introduce the mechanic of evolution to Minecraft, evolving unlocks ne
 
 There are 6 evolution environments. With them being:
 
-- Earth
-- Nether
-- End
-- Ocean
-- Cave
-- Sky
+- **Earth**
+- **Nether**
+- **End**
+- **Ocean**
+- **Cave**
+- **Sky**
 
 Each of these environments have unique skills that you can unlock by “evolving” in those environments. You evolve by gaining "Evolotion Energy". By *spending time* and *slaying mobs* in an environment you gain energy in that environment. Each skill requires a certain amount of energy to unlock. Hover over the book icon in each of the environment menus to view all of the ways to gain energy.
 
-!!! tip
+!!! tip 
     All evolutions and their descriptions can be found on the ***`/evo menu`*** menu.
 
 ## Reviving Players [Experimental]
