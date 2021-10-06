@@ -87,6 +87,7 @@ There are custom ores, items, armor, gear and magic stuff you can obtain from a 
 
 If things added by slimefun are complicated, you can always work together with someone who finds it easy or buy products from another player, forming a proper economy.
 
+
 ### Backpacks
 YOU CAN CRAFT 6 TIERS OF BACKPACKS YEEHAW HOW COOL IS THAT
 Their recipes are in `/bprecipe`, and all backpacks come with liquid tanks to store your liquids without wasting shit ton of space on individual buckets. You can't put backpacks in backpacks, sucks I know. 
