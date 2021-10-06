@@ -1,5 +1,3 @@
-Welcome to qtcraft! (name courtesy of Lola)
-
 ## How to start?
 When you first join the server, you will find yourself in the Hub (which later will be referred to as "Adventurer's Guild").
 From here onwards, you will be spending most of your time in the wilderness, or Dungeons, but more about that later. Let's get to "how to start"
