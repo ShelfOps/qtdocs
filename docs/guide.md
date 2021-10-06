@@ -1,21 +1,35 @@
-There are few unusual key elements that you will need to pay attention to:
+Welcome to qtcraft! (name courtesy of Lola)
+
+## How to start?
+When you first join the server, you will find yourself in the Hub (which later will be referred to as "Adventurer's Guild").
+From here onwards, you will be spending most of your time in the wilderness, or Dungeons, but more about that later. Let's get to "how to start"
+
+To teleport to the wilderness and begin your adventure, you will need to go talk to the "**Sorcerer**" NPC located a few steps away from you down the path. Simply right click to the Sorcerer and stand still for a few seconds. After a short teleportation delay, you will find yourself in the wilderness. Great, that was step one. From here onwards, you can begin your Survival adventure. Of course, with extra features. Let's talk more about those.
+
+There are "few" unusual key elements that you will need to pay attention to. Mainly:
 
 ---
 
-- [Skills & Magic](#skills-magic)
+- [Skills & Evolutions](#skills-evolutions)
+- [Reviving Players](#reviving-player)
 - [Machinery & Crafting](#machinery-crafting)
+- [Enchants, Reforges, Talismans & Extended Armory](#enchants-reforges-talismans-extended-armory)
 - [World Generation & Mob Changes](#world-generation-hostile-mob-changes)
-- [Dungeons, Adventurer's Guild & Bosses](#dungeons-adventurers-guild-and-bosses)
+
 ---
 
-## Skills & Magic
+## Skills & Evolutions
 
 ### Skills
 Skills are pretty straightforward. Play the game, level yourself up. You really don't need to spend extra effort on things to level yourself up; you will *automatically* gain XP by completing tasks that you usually do (like mining, fishing, fighting, running etc.) Simply play the game as you normally do, and watch certain chores become a lot easier with time.
 Each skill comes with 50 levels and each level gives you a little stat boosts alongside other various perks. 
-You will unlock some abilities but I'll leave it to you to discover those "abilities". They can be found on `/skills` menu.
+By default, those are the skills you can level up
 
 *P.S: bedrock players may not be able to open some GUI menus such as `/skills`, sorry*
+
+!!! warning ""
+    Skills play a major role in your gameplay. You will notice how the difficulty of the game will go up or down based on which skills you've chosen to level up. I recommend keeping an eye on and possibly prioritizing the stats certain skills provide bonuses on to be able to tackle certain challenges, such as [Dungeons](), become a lot easier.
+    Below you will find the benefits of each stat, hope it helps you plan out your journey.
 
 #### Stats
 
@@ -30,10 +44,43 @@ Each individual skill gives you a tiny boost within 2 selected stats as you leve
 
 
 !!! tip hint important 
-    All skills and their descriptions can be found on the ***`/skills`*** menu
+    All skills and their descriptions can be found on the ***`/skills`*** menu.
 
-### Magic
-By far my favorite feature, you can cast spells using a personalized wand. First you need to craft a wand (the recipe will be in the recipe book when you can craft one) and then you will need to start earning SpellPoints by slaying mobs using spells (you will have a starter spell.) As you earn SP (spell points), you can upgrade your wand by using the interact button on an enchantment while holding your wand. You can also customize your wand's controls by interacting with the enchanting table. Right click with your wand to cast spells. Level up your spells by killing mobs with your wand. Magic.
+### Evolutions
+Evolutions introduce the mechanic of evolution to Minecraft, evolving unlocks new skills and boosts for yourself. Improvise, adapt, overcome.
+
+There are 6 evolution environments. With them being:
+
+- Earth
+- Nether
+- End
+- Ocean
+- Cave
+- Sky
+
+Each of these environments have unique skills that you can unlock by “evolving” in those environments. You evolve by gaining "Evolotion Energy". By *spending time* and *slaying mobs* in an environment you gain energy in that environment. Each skill requires a certain amount of energy to unlock. Hover over the book icon in each of the environment menus to view all of the ways to gain energy.
+
+!!! tip
+    All evolutions and their descriptions can be found on the ***`/evo menu`*** menu.
+
+## Reviving Players [Experimental]
+You will die. A lot. The bosses and even their elite (weaker) counterparts are strong and they *will* kill you. But be not afraid! You can always revive your friends when they die, or then can revive you when you, well, **die**.
+The process goes as follows: When a player is killed, they are not actually killed; they will be placed into a bleedout period where other players can try and revive the player who is downed. To revive a player, you need to hold sneak while standing really close to them until they are revived and they get back up. When a player is revived, they will be at half a heart. Do note that there is a bleedout timer, so you cannot leave the players hanging forever. After 1.5 minutes, the player will die. To end your own suffering, you can press `Sneak` (shift) to end bleedout and die as intended.
+
+## Lumberjack
+You can take down entire trees[^1] by chopping down the bottom block
+If you don't want the whole tree to go down just shift/sneak while breaking the block
+
+!!! fail
+    You will not gain Woodcutting XP (See [Skills](#skills) above) from trees that you've chopped down automatically by breaking the bottom block. To level up your Woodcutting skill, you will need to **manually** chop down each block.
+
+[^1]: This will only work on logs which generate naturally. If you would like to take down a custom-built tree or a pillar in your base made out of logs, you will need to do that manually. There are no workarounds.
+
+## Seasons
+Pretty much a gimmick feature, but you will notice different things in the world such as air/block colors changing, random animals, berries or flowers spawning and such. If you tame an animal in a season, they will despawn when that season ends. If you breed two animals, the baby stays and parents leave to buy milk.
+
+Another thing is that there is a small winter mechanic with a temparature mechanic well on the way. Temparatures are not implemented, however, your crops will **not grow** during winter. Not at all. They will not *die*, but they will promptly stop growing until the next season (spring.)
+
 ## Machinery & Crafting
 I've added many items and item modifiers to make this server more RPG-like and offer more freedom on how you approach combat. Below, you will find details on each new mechanic that's been added to the game. Some of them are experimental, so feedback is appreciated. 
 
@@ -42,14 +89,26 @@ There are custom ores, items, armor, gear and magic stuff you can obtain from a 
 
 If things added by slimefun are complicated, you can always work together with someone who finds it easy or buy products from another player, forming a proper economy.
 
+### Backpacks
+YOU CAN CRAFT 6 TIERS OF BACKPACKS YEEHAW HOW COOL IS THAT
+Their recipes are in `/bprecipe`, and all backpacks come with liquid tanks to store your liquids without wasting shit ton of space on individual buckets. You can't put backpacks in backpacks, sucks I know. 
+
+**Notes**
+>*Rev 3.1: Both `/bprecipe` and `/bbp recipe` are valid commands. `/bprecipe` was an alias added later to make the command more convenient.*
+
+>*Rev 3.2: Backpack recipes will now appear in the crafting book when you open a crafting table.*
+
+
+## Enchants, Reforges, Talismans & Extended Armory
+
 ### Custom Enchantment Books
 There are around 240 custom enchants that can be applied to your weapon. Just like regular enchants, they can be found through enchanting tables, loot chests and villager trades. You can combine most of those enchants, but if you would like to see what conflicts with an enchant of your choice; run the command `/enchantinfo <enchant name>` or do `/enchants` to open a menu with a list of all possible enchants, spells curses and artifacts.
 
 #### Enchants
-Most of the books added through this plugin are enchants. They come in various shape on form, for a variety of tools; but what they do is simple, offer you a different way to play the game, be it through changing how you mine blocks or how you fight mobs. Enchants also have a few rarities, mentioned in [the Enchants List](../lists/enchants.md)
+Most of the books added through this plugin are enchants. They come in various shape on form, for a variety of tools; but what they do is simple, offer you a different way to play the game, be it through changing how you mine blocks or how you fight mobs. Enchants also have a few rarities, mentioned in [the Enchants List](../lists/enchants).
 
 #### Spells 
-Spells are not very common, and they offer less than enchants. They essentially apply a "skill" to your sword which you can use by using the interact button (right click by default). Some spells come with cooldowns, and they cannot be spammed.
+Spells are not very common, and they offer less than enchants. They essentially apply a "skill" to your sword which you can use by using the interact button (right click by default). Some spells come with cooldowns, and they cannot be spammed. All Spells, alongside other Enchantment Books, are mentioned in [the Enchants List](../lists/enchants).
 
 #### Artifacts
 Artifacts apply visual changes to your tools. Sword artifacts activate on hitting mobs, pickaxe artifacts activate upon mining rare ores and so on. There is **1** rare armor artifact that is not mentioned in the wiki, whoever finds it (feel free to try as many times as you want) is in for a reward of their choice. :)
@@ -72,6 +131,19 @@ The glass will then go green to indicate that a valid item has been entered.
 
 **Step Three**
 Click the button to reforge the item, paying its cost. The price increases by a factor of 1.15x every time the same item is reforged.
+
+### Talismans
+
+Talismans come in two variants. Talismans & *Slimefun* Talismans. While both of those essentially serve the same purpose, regular Talismans are much more robust than *Slimefun* talismans.  Where's the catch? Slimefun Talismans are much easier to obtain, costing you some levels (trust me, you'll be able to earn a lot of xp once you get into PvE) and some materials while regular Talismans offer you much higher benefits, for a higher cost. Slimefun Talismans are **not** listed here, as they are available on the Slimefun guidebook (the book you get when you join the server for the first time) and therefore I do not see a reason to re-list them here. Below, you will find a list of *Regular* Talismans with their benefits.
+
+!!! tip hint important
+    You can open a menu with a list of all regular Talismans alongside a bag to store them by running the command `/talismansmenu`
+
+### Extended Armory
+Extended Armory is the general name I've given to armor & weapon pieces that you can craft using items from Bosses and other extremely rare items. Those armor pieces can be worn partially, although, they will give massive stat boosts when worn as a set. As a bonus, you can upgrade Extended Armory pieces using **Upgrade Crystals** from leather all the way over to Manyullyn/Exotic.
+
+Weapons are extremely limited as of now, but more may come in the future.
+
 ## World Generation & Hostile Mob Changes
 
 ### World Generation
@@ -81,49 +153,12 @@ You might be familiar with the name "Terralith", it's a popular world generation
 #### Custom Nether & End
 When the server starts, you are free to go to any dimension you wish to go to. There are no restrictions, because those dimensions are also custom and you will feel the difficulty of them if you go early. That is why you're recommended to go there later in your playthrough, preferably with one or more people by your side.
 End is revamped to make you feel like a meaningless pebble in vast nothingness, and will feature (massive) new biomes just like nether.
-#### Livemap (Dynmap)
+### Livemap (Dynmap)
 There is a livemap that updates to the state of the world (seasons, new builds, terrain changes etc.) and can be accessed [here](http://151.80.47.38:8123/). 3D (isometric) view takes more time to render, so you're advised to use flat view (2D)
 
 You can use this map to find a good place to yoink resources in, or follow other people vibing around. 
 the world is 10kx10k and the map follows the same radius, displaying everything available to us as they are discovered on the map.
 
-#### Dynamic Mob Difficulty 
-Yet another simplex mechanic which forces mobs to spawn with higher levels as you go further away from spawn. Their stats were balanced in order to feel harder, but not impossible. There is not a hard cap for maximum mob level.  Bosses are not affected by this mechanic.
-
-## Dungeons & Adventurer's Guild (and Bosses)
-As you fight Elite Mobs and Bosses, you will collect new loot and Elite Coins. You can spend those coins, or sell your gear as well as buy new gear at Adventurer's Guild. At some point, you will need to level up your adventurer rank to attempt to fight better bosses, because the game hardlocks you from doing so unless you rank up.
-
-There is currently only one dungeon, named Sewers, but you are requested not to enter it as it is planned to be a community event where we can hopefully tackle the dungeon all together. I unfortunately don't have time to create any new dungeons, but if you happen to build one; let me know and we can add it to the server as an actual dungeon.
-
-### Bosses
-You will notice mobs which spawn with larger health pools or overall higher stats ranging from defense to damage & range. Those are bosses.  You will notice them most likely by their aura which usually has a meaning, for example:
-
-- Floating Anvils: Doesn't take knockback.
-- Floating Arrows: Doesn't take arrow damage.
-- Floating Glasspanes: This boss is invisible (creepers are a pain.)
-- Floating Fire Particles: This mob wants to grill your buttcheeks.
-
-"Bosses" from the plugin are divided into two categories, **Elite Mobs** & **Bosses**.
-**Elitemobs** are regular which have higher stats and possibly an aura. They have a base chance of dropping loot and they scale to your threat level (more about that later)
-
-**Bosses** also appear as regular mobs, but they usually have better gear and visible particle effects alongside abilities to make you feel pain. When a boss spawns in the world, you will see a notification in chat alongside an option to track them. They are usually *extremely challenging* and definitely should not be fought alone unless you have good gear.
-
-### Guild Tier System
-The guild tier loot limiter limits the best loot a player can loot based on their guild tier.
-Math behind this system is roughly like this:
-
-```sh 
-[(Guild Tier) * 10]
-```
-
-So for example, at tier 5 you will be able to obtain up to tier 50 loot and mob level will be capped at 50.
-
-### Adventurers Guild NPCs
-
-- Guild Attendant (for upgrading guild ranks)
-- Blacksmith (for buying procedurally generated items and selling drops from elite mobs)
-- Special Blacksmith (for buying custom items and selling drops from elite mobs)
-- Quest Giver (for browsing and accepting quests) (currently unimplemented)
-- Combat Instructor (for giving tips about EliteMobs combat)
-- Barkeep (currently unimplemented)
-
+### Hostile Mob Changes
+To tone down the regular monotone-ness (*is that a word?*) of Vanilla Minecraft, I have implemented "some" (*big irony here btw*) custom mobs & bosses that you will encounter. To remain simple for the sake of this being a starter guide, I will only mention that they are *Mobs* that are **extremely challenging.** Want to learn more? Great!
+You should ***definitely*** check out the [Advanced Guide](../advanced). As a matter of fact, I strongly recommend reading the Advanced Guide regardless. It has some really **interesting content that you will want to get into**.

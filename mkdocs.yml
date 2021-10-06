@@ -114,20 +114,22 @@ nav:
   - Home: index.md
   - Guides:
     - Starter Guide: guide.md
-    - Brewing Guide: brewing.md
-    - Pets: pets.md
+    - Advanced Guide: advanced.md
+    - Extras Guide: extras.md
+    - Pets Guide: pets.md
     - Cosmetics: cosmetics.md
     - Lists:
       - lists/enchants.md
       - lists/reforges.md
       - lists/talismans.md
       - lists/armor.md
-  - Extras:
-    - Extra Features: extras.md
-    - FAQ: faq.md
+    - FAQ: 
+      - faq.md
   - Revision Notes:
     - rev/index.md
     #- 2021:
+    - 6.x:
+      - rev/6.0.md
     - 5.x:
       - rev/5.1.md
       - rev/5.0.md

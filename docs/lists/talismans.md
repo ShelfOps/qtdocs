@@ -23,7 +23,7 @@
 | Flux Talisman              | Nearby players deal more melee damage                    |
 | Healing Talisman           | Heal faster                                              |
 | Speed Talisman             | Move faster                                              |
-| Boss Talisman              | Deal more damage to *vanilla* bosses                     |
+| Boss Talisman              | Deal more damage to **vanilla** bosses                   S|
 | Gravity Talisman           | Take less damage the lower down you are                  |
 | Attack Speed Talisman      | Attack faster                                            |
 | Day Crystal                | Deal more damage at daytime                              |
