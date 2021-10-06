@@ -70,6 +70,7 @@ plugins:
       prebuild_index: true
   - git-revision-date-localized
   - macros
+  - mike
 # Extensions
 markdown_extensions:
   - admonition
@@ -144,3 +145,5 @@ extra:
       link: https://twitter.com/notashelf
     - icon: fontawesome/brands/github
       link: https://github.com/notashelf
+  version:
+    provider: mike

@@ -3,11 +3,11 @@
 
 ## Testing Locally
 
-** Install mkdocs-material**
+**Install mkdocs-material**
 ```sh
 pip install mkdocs-material 
 ```
-** Install Dependencies**
+**Install Dependencies**
 ```sh
 pip install mkdocs-macros-plugin
 ```

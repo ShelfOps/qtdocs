@@ -69,7 +69,7 @@ The process goes as follows: When a player is killed, they are not actually kill
 You can take down entire trees[^1] by chopping down the bottom block
 If you don't want the whole tree to go down just shift/sneak while breaking the block
 
-!!! fail
+!!! fail ""
     You will not gain Woodcutting XP (See [Skills](#skills) above) from trees that you've chopped down automatically by breaking the bottom block. To level up your Woodcutting skill, you will need to **manually** chop down each block.
 
 [^1]: This will only work on logs which generate naturally. If you would like to take down a custom-built tree or a pillar in your base made out of logs, you will need to do that manually. There are no workarounds.
