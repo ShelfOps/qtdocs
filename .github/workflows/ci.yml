@@ -15,7 +15,7 @@ jobs:
       - run: pip install mike
       - run: pip install mkdocs-macros-plugin
       - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: mike deploy --push --update-aliases 6.0 latest
+#      - run: mike deploy --push --update-aliases 6.0 latest
 #      - run: mike retitle latest (Outdated)
-      - run: mike set-default --push latest
+#      - run: mike set-default --push latest
       - run: mkdocs gh-deploy --force
