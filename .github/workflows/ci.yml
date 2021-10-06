@@ -13,6 +13,7 @@ jobs:
           python-version: 3.x
       - run: git config user.name qtdocs-CI
       - run: git config user.email qtdocs@github.com
+      - run: git pull
       - run: pip install mkdocs-material 
       - run: pip install mike
       - run: pip install mkdocs-macros-plugin
