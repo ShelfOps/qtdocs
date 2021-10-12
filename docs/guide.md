@@ -153,7 +153,7 @@ You might be familiar with the name "Terralith", it's a popular world generation
 When the server starts, you are free to go to any dimension you wish to go to. There are no restrictions, because those dimensions are also custom and you will feel the difficulty of them if you go early. That is why you're recommended to go there later in your playthrough, preferably with one or more people by your side.
 End is revamped to make you feel like a meaningless pebble in vast nothingness, and will feature (massive) new biomes just like nether.
 ### Livemap (Dynmap)
-There is a livemap that updates to the state of the world (seasons, new builds, terrain changes etc.) and can be accessed [here](http://151.80.47.38:8123/). 3D (isometric) view takes more time to render, so you're advised to use flat view (2D)
+There is a livemap that updates to the state of the world (seasons, new builds, terrain changes etc.) and can be accessed by running `/map` in game or the link for the map can be found [here](https://discord.com/channels/885961894429597717/885989732792823819/886918960375795733). 3D (isometric) view takes more time to render, so you're advised to use flat view (2D)
 
 You can use this map to find a good place to yoink resources in, or follow other people vibing around. 
 the world is 10kx10k and the map follows the same radius, displaying everything available to us as they are discovered on the map.
