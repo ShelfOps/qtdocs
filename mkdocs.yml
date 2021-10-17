@@ -1,18 +1,18 @@
 # Project information
 site_name: qtdocs
-site_url: https://notashelf.github.io/qtdocs
+site_url: https://qtcraftmc.github.io/qtdocs
 site_author: NotAShelf
 site_description: >-
   A simple documentation website to elaborate on the basics of the server. 
   Nothing much, but it's honest work. Lola is cute.
 
 # Repository
-repo_name: notashelf/qtdocs
-repo_url: https://github.com/notashelf/qtdocs
+repo_name: qtcraftmc/qtdocs
+repo_url: https://qtcraftmc.github.io/qtdocs
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2021 NotAShelf
+copyright: Copyright &copy; 2021 NotAShelf @ qtcraft
 # Configuration
 theme:
   name: material
